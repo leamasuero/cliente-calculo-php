@@ -1,0 +1,5 @@
+{
+    "name": "sueldos/cliente-calculo-php",
+    "description": "Cliente Http para poder interactuar con la api de calculo",
+    "require": {}
+}
